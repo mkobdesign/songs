@@ -1,3 +1,5 @@
+## This was made to show some redux state management, because hooks don't exactly do redux's job just yet
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
